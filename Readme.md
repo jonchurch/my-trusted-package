@@ -37,10 +37,10 @@ This package contains the following npm lifecycle scripts:
 
 ## Installation
 
-To install `my-trusted-package`:
+`npm@7` and above do not foreground output from dependency scripts, so you won't know that they've run unless you use `--foreground-scripts`:
 
 ```bash
-npm install my-trusted-package
+npm install --foreground scripts my-trusted-package
 ```
 
 Monitor the console to see the execution of lifecycle scripts and verify they ran.
