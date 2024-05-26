@@ -2,7 +2,14 @@
 
 ![Ladybug in a box labeled "my trusted package"](https://github.com/jonchurch/my-trusted-package/raw/main/my-trusted-bug.jpg)
 
-## It is a pleasure to have your trust.
+- [It is a pleasure to have your trust](#it-is-a-pleasure-to-have-your-trust)
+- [Lifecycle Scripts](#lifecycle-scripts)
+- [Installation](#installation)
+- [Disabling Lifecycle Scripts](#disabling-lifecycle-scripts)
+- [Importance of Disabling Install Scripts](#importance-of-disabling-install-scripts)
+- [Suggested Practices](#suggested-practices)
+
+## It is a pleasure to have your trust
 
 `my-trusted-package` demonstrates the execution of npm lifecycle scripts during various stages of the npm package lifecycle. It is specifically designed for developers who want to understand and how these lifecycle events are triggered.
 
