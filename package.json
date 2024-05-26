@@ -19,5 +19,12 @@
     "install script"
   ],
   "author": "jonchurch",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonchurch/my-trusted-package.git"
+  },
+  "bugs": {
+    "url": "https://en.wikipedia.org/wiki/Lady_bug"
+  }
 }
