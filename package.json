@@ -1,6 +1,6 @@
 {
   "name": "my-trusted-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "it's all good man",
   "main": "index.js",
   "files": [
