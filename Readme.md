@@ -1,6 +1,6 @@
 # My Trusted Package: NPM Lifecycle Script Example
 
-![Ladybug in a box labeled "my trusted package"](./my-trusted-bug.jpg)
+![Ladybug in a box labeled "my trusted package"](https://github.com/jonchurch/my-trusted-package/raw/main/my-trusted-bug.jpg)
 
 ## It is a pleasure to have your trust.
 
