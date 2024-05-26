@@ -1,0 +1,17 @@
+{
+  "name": "my-trusted-package",
+  "version": "0.0.1",
+  "description": "it's all good man",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "echo 'Preparing Trust!' # (Running prepare script)",
+    "preinstall": "echo 'Trust preinstalling!' # (Running preinstall script)",
+    "postinstall": "echo 'Trust Installed!' # (Running postinstall script)",
+    "preuninstall": "echo 'Trust preuninstalling!' # (Running preuninstall script)",
+    "postuninstall": "echo 'Trust postuninstalling!' # (Running postuninstall script)"
+  },
+  "keywords": ["trusted", "install script"],
+  "author": "jonchurch",
+  "license": "ISC"
+}
