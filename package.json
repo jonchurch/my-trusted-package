@@ -1,6 +1,6 @@
 {
   "name": "my-trusted-package",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "it's all good man",
   "main": "index.js",
   "files": [
@@ -14,7 +14,10 @@
     "preuninstall": "echo 'Trust preuninstalling!' # (Running preuninstall script)",
     "postuninstall": "echo 'Trust postuninstalling!' # (Running postuninstall script)"
   },
-  "keywords": ["trusted", "install script"],
+  "keywords": [
+    "trusted",
+    "install script"
+  ],
   "author": "jonchurch",
   "license": "ISC"
 }
