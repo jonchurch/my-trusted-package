@@ -47,10 +47,11 @@ Monitor the console to see the execution of lifecycle scripts and verify they ra
 
 ## Disabling Lifecycle Scripts
 
-To ensure that installation scripts do not execute, install the package with scripts disabled:
+To ensure that installation scripts do not execute, install the package with scripts disabled using `--ignore-scripts`:
 
 ```bash
-npm install my-trusted-package --ignore-scripts
+# foregrounding for demonstration
+npm install --foreground-scripts --ignore-scripts my-trusted-package 
 ```
 
 ## Importance of Disabling Install Scripts
